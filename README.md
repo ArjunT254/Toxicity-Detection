@@ -32,6 +32,11 @@ To utilize GameGuardian and deploy the toxicity recognition system in your gamin
     ```bash
     streamlit run app.py
     ```
+    
+    The app uses the following saved files:
+    logistic_regresion.pkl: Pickle file containing the logistic regression model.
+    tfidf_vectorizer.pkl: Pickle file containing the TF-IDF vectorizer.
+    label_encoder.pkl: Pickle file containing the label encoder.
 
 4. **Interact with the App**: Open your web browser and access the provided URL to interact with GameGuardian. Enter sample chat messages or connect it to your gaming platform for real-time monitoring.
 

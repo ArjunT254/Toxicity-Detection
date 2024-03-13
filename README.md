@@ -17,7 +17,7 @@ To utilize GameGuardian and deploy the toxicity recognition system in your gamin
 1. **Clone the Repository**: Begin by cloning this GitHub repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/GameGuardian.git
+    git clone https://github.com/ArjunT254/Toxicity-Detection
     ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
